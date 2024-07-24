@@ -17,3 +17,5 @@ elif page == "업다운게임":
 elif page == "데이터분석":
   st.title("데이터분석")
   df.show()
+
+  
